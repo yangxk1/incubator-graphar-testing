@@ -20,4 +20,4 @@ property_groups:
         is_primary: false
     prefix: firstName_lastName_gender/
     file_type: csv
-version: 1
+version: gar/v1

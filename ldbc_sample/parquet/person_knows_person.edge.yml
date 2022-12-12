@@ -34,4 +34,4 @@ adj_lists:
           - name: creationDate
             data_type: string
             is_primary: false
-version: 1
+version: gar/v1

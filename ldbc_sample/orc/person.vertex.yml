@@ -19,4 +19,4 @@ property_groups:
         data_type: string
         is_primary: false
     file_type: orc
-version: 1
+version: gar/v1

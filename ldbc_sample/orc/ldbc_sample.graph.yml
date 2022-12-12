@@ -3,4 +3,4 @@ vertices:
   - person.vertex.yml
 edges:
   - person_knows_person.edge.yml
-version: 1
+version: gar/v1
