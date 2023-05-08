@@ -1,4 +1,4 @@
-label: Person
+label: Movie
 chunk_size: 100
 prefix: vertex/movie/
 property_groups:
