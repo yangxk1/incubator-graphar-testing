@@ -1,5 +1,5 @@
 type: person
-chunk_size: 4096
+chunk_size: 1024
 prefix: vertex/person/
 property_groups:
   - file_type: parquet
@@ -7,13 +7,9 @@ property_groups:
       - name: firstName
         data_type: string
         is_primary: false
-  - file_type: parquet
-    properties:
       - name: lastName
         data_type: string
         is_primary: false
-  - file_type: parquet
-    properties:
       - name: gender
         data_type: string
         is_primary: false
@@ -22,8 +18,6 @@ property_groups:
       - name: locationIP
         data_type: string
         is_primary: false
-  - file_type: parquet
-    properties:
       - name: browserUsed
         data_type: string
         is_primary: false
